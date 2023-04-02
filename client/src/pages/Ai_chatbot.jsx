@@ -108,7 +108,7 @@ const Ai_Chatbot = () => {
         <p className="mt-2 text-[#666e75] text-[14px] dark:text-slate-400 max-w-[500px]">Generate an answer through DALL-E AI </p>
       </div>
     <div className='grid grid-cols-10 gap-7'>
-      <div className='col-span-6'>
+       <div className='col-span-10 md:col-span-6 lg:col-span-6'>
       <div className='flex flex-col items-start justify-center mt-3'>
     <div className="w-full h-96 p-4 text-[#e2e8f0]  bg-[#111827] border border-gray-200 dark:border-none rounded-md resize-none focus:outline-none focus:ring-2 focus:ring-blue-400">
     {answer}
@@ -133,7 +133,7 @@ const Ai_Chatbot = () => {
       {answer &&   <audio ref={audioRef} controls />}
     </div>
       </div>
-      <div className='col-span-4 '>
+         <div className='md:col-span-4 lg:col-span-4 hidden md:block lg:block '>
         <div className='flex items-center justify-center'>
         <img src={AI} alt="" className='rounded-md '  />
         </div>
