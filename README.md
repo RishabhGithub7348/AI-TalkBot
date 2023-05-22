@@ -3,10 +3,9 @@ AI Voice Chatbot is a web application that allows users to interact with an AI-p
 
 Video Link: https://www.youtube.com/watch?v=EmWHFGDZNkc&t=3s
 
-![ai-talk-bot vercel app_](https://github.com/RishabhGithub7348/AI-TalkBot/assets/75687649/47ce6133-c6ab-48a2-ac04-e3076b634730)
+![ai-talk-bot vercel app_](https://github.com/RishabhGithub7348/AI-TalkBot/assets/75687649/1c981574-c99e-48ad-ad00-fc5e2f42a37d)
 
- ![ai-talk-bot vercel app_ (1)](https://github.com/RishabhGithub7348/AI-TalkBot/assets/75687649/01bfaee7-bfd4-4987-acfa-df52c69195b5)
-
+![ai-talk-bot vercel app_ (1)](https://github.com/RishabhGithub7348/AI-TalkBot/assets/75687649/68793f7f-37f4-4046-aa96-55073eb27451)
 
 Technologies Used
 React
